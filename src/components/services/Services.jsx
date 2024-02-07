@@ -89,7 +89,7 @@ const Services = () => {
                     <ul className='service__list'>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p>Windows 7, 8 and 10</p>
+                            <p>Windows 7, 8, 10 and 11</p>
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />

@@ -37,18 +37,13 @@ const Contact = () => {
                         <a href="mailto:wafulabrenner@gmail.com" target="_blank">Send a message</a>
                     </article>
 
-                    <article className="contact__option">
-                        <RiMessengerLine className='contact__option-icon' />
-                        <h4>Messenger</h4>
-                        <h5>Nguyen Vu</h5>
-                        <a href="https://m.me/vunguyen260803.trying" target="_blank" >Send a message</a>
-                    </article>
+                    
 
                     <article className="contact__option">
                         <TbBrandLinkedin className='contact__option-icon' />
                         <h4>Linkedin</h4>
-                        <h5>Nguyen Vu</h5>
-                        <a href="https://www.linkedin.com/in/nguyenvu2608/" target="_blank">Send a message</a>
+                        <h5>Wafula Brenner</h5>
+                        <a href="https://www.linkedin.com/in/wafula-brenner" target="_blank">Send a message</a>
                     </article>
                 </div>
                 {/* End of contact options */}

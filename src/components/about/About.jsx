@@ -40,9 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        I am a cautious and perfectionist person. Desire to be a member of the Pentest Team. In the next 5 years,
-                        I will be a Professional Pentester and have CEH, and CISSP certificates. I own 20 certificates from online
-                        learning platforms like Coursera, Hackerrank, TryHackMe, Cisco... and a few soft skills certificates.
+                    Passionate cybersecurity engineer dedicated to protecting digital assets and mitigating risks. Recent graduate with expertise in network security, cryptography, and ethical hacking. Eager to contribute to cybersecurity efforts and stay updated on emerging threats. Let's connect and make the digital world safer together!
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>

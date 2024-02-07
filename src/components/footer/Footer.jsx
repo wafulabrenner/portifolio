@@ -37,7 +37,7 @@ const Footer = () => {
             </div >
 
             <div className="footer__copyright">
-                <small>&copy; <b><a href="https://www.linkedin.com/in/nguyenvu2608/">brenner</a></b>. All rights reserved.</small>
+                <small>&copy; <b><a href="https://www.linkedin.com/in/nguyenvu2608/">wafula-brenner</a></b>. All rights reserved.</small>
             </div>
         </footer >
     )
