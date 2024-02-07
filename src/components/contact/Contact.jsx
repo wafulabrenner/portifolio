@@ -33,8 +33,8 @@ const Contact = () => {
                     <article className="contact__option">
                         <HiOutlineMail className='contact__option-icon' />
                         <h4>Email</h4>
-                        <h5>tanvunguyen2205@gmail.com</h5>
-                        <a href="mailto:tanvunguyen2205@gmail.com" target="_blank">Send a message</a>
+                        <h5>wafulabrenner@gmail.com</h5>
+                        <a href="mailto:wafulabrenner@gmail.com" target="_blank">Send a message</a>
                     </article>
 
                     <article className="contact__option">
@@ -54,9 +54,9 @@ const Contact = () => {
                 {/* End of contact options */}
 
                 <form ref={form} onSubmit={sendEmail}>
-                    <input type="text" name='name' placeholder='Raymond Rhodes' required />
+                    <input type="text" name='name' placeholder='John Doe' required />
                     <input type="email" name='email' placeholder='example@example.com' required />
-                    <textarea name='message' rows="7" placeholder='Hi Vu, I have a question...' required></textarea>
+                    <textarea name='message' rows="7" placeholder='Hi Brenner, I have a question...' required></textarea>
                     <button type='submit' className='btn btn-primary'>Send Message</button>
                 </form>
             </div>

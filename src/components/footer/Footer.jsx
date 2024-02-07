@@ -15,7 +15,7 @@ import { ImBlogger2 } from 'react-icons/im'
 const Footer = () => {
     return (
         <footer>
-            <a href="#" className='footer__logo'>NGUYENVU</a>
+            <a href="#" className='footer__logo'>BRENNER</a>
 
             <ul className='permalinks'>
                 <li><a href="#">Home</a></li>
@@ -37,7 +37,7 @@ const Footer = () => {
             </div >
 
             <div className="footer__copyright">
-                <small>&copy; <b><a href="https://www.linkedin.com/in/nguyenvu2608/">nguyenvu</a></b>. All rights reserved.</small>
+                <small>&copy; <b><a href="https://www.linkedin.com/in/nguyenvu2608/">brenner</a></b>. All rights reserved.</small>
             </div>
         </footer >
     )
